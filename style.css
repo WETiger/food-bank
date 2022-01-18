@@ -110,7 +110,20 @@ section{
     font-size: 28px;
     color: #000;
 }
+/* social area */
+.social-area{
+    display: flex;
+    margin: 5%;
 
+}
+.social{
+    text-align: center;
+    width: 34%;
+}
+.social h1{
+    margin-bottom: 0;
+}
+/* footer area */
 footer{
     padding-top: 30px;
     padding-bottom: 100px;
@@ -119,6 +132,7 @@ footer{
 }
 footer h3{
     font-size: 28px;
+    m5
 }
 footer p{
     color: #ddd;
